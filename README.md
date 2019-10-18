@@ -1,2 +1,2 @@
 # soap_calc
-python soap recipe calculator
+python command line soap recipe calculator 
