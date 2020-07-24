@@ -1,7 +1,7 @@
 #!/user/local/bin/perl
 
-# josephcourtney_soap_calc.pl
-# Author: Joseph Courtney
+# soap_calc.pl
+# Author: blastomussa
 # This a perl program that calculates the necessary amounts of liquids and
 # lye(sodium hydroxide) in grams for a specific combination of fatty oils. It
 # then outputs the full recipe. To run this program simply type perl
