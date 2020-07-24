@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # File name: soapCalc.py
-# Author: Joseph Courtney
+# Author: Blastomussa
 # Date: 3/4/2018
 # This a python program that calculates the necessary amounts of liquids and
 # lye(sodium hydroxide) in grams for a specific combination of fatty oils. It
